@@ -1,7 +1,7 @@
-# CST-150_O500
-# Programming in C# I - July 2022
+CST-150 Programing in C# 1
+Week 1 / Activity 1
+07/06/2022
 
-All programs and assignments completed in this repository are my work unless otherwise noted in reference. This is avoided at all times. My projects may not be used without my permission and pushes will not be accepted.
+Assessment Description:
+Install the current version of Visual Studio .NET on your personal computer. Once the software is installed, create a Windows Forms Application, and build a form with a variety of controls. Demonstrate your form to your instructor before leaving the class. Submit your zipped project to the LMS and include a screenshot of your program running with successful output.
 
-This is for my class assignments and maybe added to my portfolio at a later date.
-Please reach me at danielrumfelt@charter.net with any questions.
